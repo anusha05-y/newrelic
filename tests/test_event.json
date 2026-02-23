@@ -1,0 +1,8 @@
+{
+    "detail-type": "EC2 Instance State-change Notification",
+    "source": "aws.ec2",
+    "detail": {
+      "instance-id": "i-0123456789abcdef0", 
+      "state": "running"
+    }
+  }
